@@ -43,7 +43,7 @@ The commit history reflects a logical progression of the project. Each commit is
 *Usage Guidelines:*
 
 - *Crop Recommendation:*
-  - Input parameters such as soil type, temperature, etc., to receive personalized crop recommendations.
+  - Input parameters such as N, P, and K levels to receive personalized crop recommendations.
     
 - *Data Analysis:*
   - Explore historical trends and insights through the provided dashboard.
@@ -64,6 +64,38 @@ If you wish to contribute to the project, please follow the standard GitHub work
 4. Sejal Saluja
    
 
-*Acknowledgements:*
+*Datasets send their references:*
+1) Crop_yield: https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset/
+2) Soil_NPK: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
-Give credit to any external libraries, datasets, or sources used in the project.
+A glimpse of the interface of the project:
+
+<img width="1359" alt="image" src="https://github.com/bsid24082/Agriculture_Data-Analytics_Project/assets/118895012/e03e10e4-20ed-4a56-8b45-3405bd163049">
+
+First page where the dataset can be seen and dowloaded in .csv or .xlsx format.
+
+
+<img width="1336" alt="image" src="https://github.com/bsid24082/Agriculture_Data-Analytics_Project/assets/118895012/99d2290f-bced-4a36-ba0d-945114303aae">
+
+The descriptive statistics shown of the Crop_yield data for better understanding.
+
+<img width="1206" alt="image" src="https://github.com/bsid24082/Agriculture_Data-Analytics_Project/assets/118895012/57de074c-bbe2-48a6-8e3f-f0a4c81edfe8">
+
+The visualisations after EDA
+
+<img width="1322" alt="image" src="https://github.com/bsid24082/Agriculture_Data-Analytics_Project/assets/118895012/53ede090-a691-43bc-95a4-8e625b9f5ec2">
+
+Pandas Profiling for the accurate and detailed analysis of the dataset.
+
+<img width="1191" alt="image" src="https://github.com/bsid24082/Agriculture_Data-Analytics_Project/assets/118895012/313b506f-8586-4d3d-ab4c-5b909499cfd6">
+
+Prediction Page
+
+<img width="1223" alt="image" src="https://github.com/bsid24082/Agriculture_Data-Analytics_Project/assets/118895012/6ddc282e-83a8-4679-89ab-65c0b2a38771">
+
+Prediction Result Page
+
+
+
+
+
